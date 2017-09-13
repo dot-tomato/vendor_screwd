@@ -43,3 +43,8 @@ PRODUCT_COPY_FILES += \
 # Clean up packages cache to avoid wrong strings and resources
 PRODUCT_COPY_FILES += \
     vendor/screwd/prebuilt/bin/clean_cache.sh:system/bin/clean_cache.sh
+
+# Latin IME lib
+PRODUCT_COPY_FILES += \
+    vendor/screwd/prebuilt/lib/libjni_latinime.so:system/lib/libjni_latinime.so \
+    vendor/screwd/prebuilt/lib/libjni_latinimegoogle.so:system/lib/libjni_latinimegoogle.so
