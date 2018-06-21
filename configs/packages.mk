@@ -120,7 +120,10 @@ PRODUCT_PACKAGES += \
     DuiBlackTheme \
     SystemExtendedTheme \
     SettingsExtendedTheme \
-    DuiExtendedTheme
+    DuiExtendedTheme \
+    SystemChocolateTheme \
+    SettingsChocolateTheme \
+    DuiChocolateTheme
 
 # Fonts
 PRODUCT_PACKAGES += \
