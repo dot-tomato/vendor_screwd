@@ -84,7 +84,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     PixelTheme \
     AmberAccent \
-    BlackAccent \
     BlueAccent \
     BlueGreyAccent \
     BrownAccent \
@@ -107,8 +106,7 @@ PRODUCT_PACKAGES += \
     PurpleAccent \
     RedAccent \
     TealAccent \
-    YellowAccent \
-    WhiteAccent
+    YellowAccent 
 
 # UI Variants
 PRODUCT_PACKAGES += \
